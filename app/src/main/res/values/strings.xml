@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Tone Keyboard</string>
+    <string name="permission_description">In order to allow this application to collect your apps usage information, you need to allow "Package Usage Stats" permission from the Settings application.\nYou can cancel this permission anytime.</string>
+    <string name="keyboard_permission_description">In order to use the Text Tone Keyboard, you need to enable "AITextToneKeyboard" in Languages and Input Settings in the Settings application.\nYou can cancel this permission anytime.</string>
+    <string name="device_description">Disable the Force Stop button using Device Policy Manager API</string>
+    <string name="device_admin_label">Device Admin</string>
+
+</resources>
